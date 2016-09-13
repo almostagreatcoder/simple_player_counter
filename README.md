@@ -1,2 +1,2 @@
-# simple_player_counter
-SourceMod-Plugin: Simple Player Counter keeps track of players currently playing on a game server by generating text files.
+# Simple Player Counter Plugin
+This SourceMod Plugin keeps track of players currently playing on a game server by generating text files. Useful for checking the servers activity via linux console/shell scripts.
